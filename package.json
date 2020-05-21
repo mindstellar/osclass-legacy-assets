@@ -1,0 +1,19 @@
+{
+  "name": "osclass legacy assets",
+  "description": "Legacy assets required for osclass to work.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/mindstellar/osclass-legacy-assets.git",
+  "keywords": [
+    "Classifieds",
+    "Osclass legacy"
+  ],
+  "author": "Mindstellar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mindstellar/osclass-legacy-assets/issues"
+  },
+  "homepage": "https://github.com/mindstellar/osclass-legacy-assets#readme"
+  }
+}
