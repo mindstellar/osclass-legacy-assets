@@ -1,11 +1,14 @@
 {
   "name": "osclass-legacy-assets",
-  "version":"0.1.0",
+  "version":"1.0.0",
   "description": "Legacy assets required for osclass to work.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git+https://github.com/mindstellar/osclass-legacy-assets.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindstellar/osclass-legacy-assets.git"
+  },
   "keywords": [
     "Classifieds",
     "Osclass legacy"
